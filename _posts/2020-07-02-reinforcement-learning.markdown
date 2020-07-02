@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Reinforcement Learning Intro"
-date: 2020-07-02 14:00:00 +0200
-categories: Reinforcement Learning
+title:  "Reinforcement Learning Intro"
+date:   2020-07-02 14:00:00 +0200
+categories: rl
 ---
 
 # What?
