@@ -3,9 +3,8 @@ layout: post
 title:  "Oceania trip"
 date:   2020-07-03 21:22:00 +0200
 categories: travelling
-fimg: /assets/australia-trip-overview-map.png
 ---
-
+![fimg](/assets/australia-trip-overview-map.png)
 ## The Whys, The Hows and Whens
 
 We decided to go to Australia on a December night, drinking beer and exclaiming how lucky a friend of ours was for getting the funding for IPAC in Melbourne. It was then that we realised that what was holding us back was our lack of imagination, because why not go to Australia on an hour's notice!
