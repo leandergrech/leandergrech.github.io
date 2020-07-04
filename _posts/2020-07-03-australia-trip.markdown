@@ -1,8 +1,10 @@
 ---
 layout: post
+author: Leander Grech
 title:  "Oceania trip"
 date:   2020-07-03 21:22:00 +0200
 categories: travelling
+tags: travelling
 ---
 ![fimg](/assets/australia-trip-overview-map.png)
 ## The Whys, The Hows and Whens
